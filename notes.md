@@ -33,3 +33,9 @@ Projects:
 ## Models:
 Involves tracking different ways of creating and managing models.
 Includes instructions on how to load and work with models using specific libraries (e.g., Scikit-learn).
+
+## Question 1: why logging paramters important?
+Logging parameters is important because it helps track the settings used during training, allowing for reproducibility and better understanding of model behavior.
+
+## Question 2 : What is the difference between parameters and metrics?
+parameters are about the settings for training, while metrics are about evaluating the model's performance.
