@@ -1,0 +1,10 @@
+# Key Terms:
+
+## MLflow Tracking 
+Logs key metrics, parameters, models, and other artifacts when running ML code to monitor experiments
+
+## MLflow Projects 
+Configurable standard format for organizing ML code to ensure consistency and reproducibility
+
+## MLflow Models 
+Package ML model files with their dependencies so they can be deployed on diverse platforms
