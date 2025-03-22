@@ -11,3 +11,8 @@ his command sets an environment variable that tells MLflow which experiment ID t
 
 ### Run the Python script to produce and log metrics
 ```python produce_metrics.py```
+
+#### tree of Ml runs
+
+in linux install tree 
+```tree mlruns/```
