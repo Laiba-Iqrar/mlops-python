@@ -16,3 +16,53 @@ his command sets an environment variable that tells MLflow which experiment ID t
 
 in linux install tree 
 ```tree mlruns/```
+
+mlruns/
+├── 0
+│   ├── 05e3e29ec764433f83078d59b9a55462
+│   │   ├── artifacts
+│   │   ├── meta.yaml
+│   │   ├── metrics
+│   │   │   └── time_to_complete
+│   │   ├── params
+│   │   │   ├── threshold
+│   │   │   └── verbosity
+│   │   └── tags
+│   │       ├── mlflow.runName
+│   │       ├── mlflow.source.git.commit
+│   │       ├── mlflow.source.name
+│   │       ├── mlflow.source.type
+│   │       └── mlflow.user
+│   ├── 6c52c101108841ddb432edff0c281bef
+│   │   ├── artifacts
+│   │   ├── meta.yaml
+│   │   ├── metrics
+│   │   │   ├── cpu
+│   │   │   ├── disk
+│   │   │   └── ram
+│   │   ├── params
+│   │   └── tags
+│   │       ├── mlflow.runName
+│   │       ├── mlflow.source.git.commit
+│   │       ├── mlflow.source.name
+│   │       ├── mlflow.source.type
+│   │       └── mlflow.user
+│   ├── f090319ad9a04c03acbd2b4c7689fc91
+│   │   ├── artifacts
+│   │   │   └── produced-dataset.csv
+│   │   ├── meta.yaml
+│   │   ├── metrics
+│   │   │   └── time_to_complete
+│   │   ├── params
+│   │   │   ├── threshold
+│   │   │   └── verbosity
+│   │   └── tags
+│   │       ├── mlflow.runName
+│   │       ├── mlflow.source.git.commit
+│   │       ├── mlflow.source.name
+│   │       ├── mlflow.source.type
+│   │       └── mlflow.user
+│   └── meta.yaml
+├── 914799642224550823
+│   └── meta.yaml
+└── models
