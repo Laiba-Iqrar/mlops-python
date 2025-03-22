@@ -1,0 +1,15 @@
+artifact_uri: file:///home/laiba/mlops-python/mlruns/0/05e3e29ec764433f83078d59b9a55462/artifacts
+end_time: 1742506336300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05e3e29ec764433f83078d59b9a55462
+run_name: incongruous-sow-446
+run_uuid: 05e3e29ec764433f83078d59b9a55462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742506336255
+status: 3
+tags: []
+user_id: laiba

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/laiba/mlops-python/mlruns/0/f090319ad9a04c03acbd2b4c7689fc91/artifacts
+end_time: 1742506390269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f090319ad9a04c03acbd2b4c7689fc91
+run_name: smiling-shrike-225
+run_uuid: f090319ad9a04c03acbd2b4c7689fc91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742506390252
+status: 3
+tags: []
+user_id: laiba
