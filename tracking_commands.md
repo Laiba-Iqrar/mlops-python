@@ -17,7 +17,7 @@ his command sets an environment variable that tells MLflow which experiment ID t
 in linux install tree 
 ```tree mlruns/```
 
-mlruns/
+```mlruns/
 ├── 0
 │   ├── 05e3e29ec764433f83078d59b9a55462
 │   │   ├── artifacts
@@ -65,4 +65,4 @@ mlruns/
 │   └── meta.yaml
 ├── 914799642224550823
 │   └── meta.yaml
-└── models
+└── models```
