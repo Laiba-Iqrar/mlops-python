@@ -1,0 +1,8 @@
+python: "3.8"
+dependencies:
+  - pip
+  - pip:
+    - mlflow>=2.0
+    - scikit-learn
+    - pandas
+    - numpy

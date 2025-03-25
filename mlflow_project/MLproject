@@ -1,0 +1,10 @@
+name: My ML Project
+python_env: python_env.yaml
+
+entry_points:
+  main:
+    parameters:
+      data_file: path
+      learning_rate: {type: float, default: 0.01}
+      max_depth: {type: int, default: 5}
+    command: "python train.py --data_file {data_file} --learning_rate {learning_rate} --max_depth {max_depth}"
