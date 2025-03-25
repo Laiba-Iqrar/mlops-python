@@ -1,0 +1,15 @@
+artifact_uri: file:///home/laiba/mlops-python/mlruns/0/6c52c101108841ddb432edff0c281bef/artifacts
+end_time: 1742661888413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c52c101108841ddb432edff0c281bef
+run_name: lyrical-gnat-752
+run_uuid: 6c52c101108841ddb432edff0c281bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742661888391
+status: 3
+tags: []
+user_id: laiba

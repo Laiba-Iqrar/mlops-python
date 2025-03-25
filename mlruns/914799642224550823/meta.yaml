@@ -1,0 +1,6 @@
+artifact_location: file:///home/laiba/mlops-python/mlruns/914799642224550823
+creation_time: 1742661709602
+experiment_id: '914799642224550823'
+last_update_time: 1742661709602
+lifecycle_stage: active
+name: produce metrics
