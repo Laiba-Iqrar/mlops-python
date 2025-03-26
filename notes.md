@@ -46,3 +46,30 @@ Azure Machine Learning is a cloud-based service provided by Microsoft that enabl
 
 MAin reasons: 
 Big Data processing , Integration is easier , collaboartion
+
+## Question 4: How do MLflow Projects differ from simply version controlling and sharing code? What additional value do they provide?
+- MLflow Projects package not just code, but also dependencies and metadata (like parameters and entry points) in a structured format.
+- They provide reproducibility and reusability, allowing for easy execution of the project in different environments, which is not guaranteed by simple version control.
+
+## Question 5: What kinds of challenges could arise when trying to break up a machine learning pipeline into separate reusable steps? How might MLflow help address some of these?
+
+Challenges in Breaking Up Pipelines:
+- Complexity: Identifying clear boundaries between steps can be difficult.
+- Dependency Management: Ensuring that each step has the necessary inputs and outputs can be challenging.
+  
+MLflow Solutions: 
+- It helps by providing a framework to define and manage these steps, allowing for modularization and tracking of each component, making it easier to manage dependencies.
+
+## Question 6: What are some examples of workflows or use cases that would benefit from being implemented as MLflow Projects?
+
+Examples of Workflows:
+- Hyperparameter Tuning: Running multiple experiments with different parameters can be organized as MLflow Projects.
+- Cross-Validation: Implementing a workflow that splits data, trains models, and evaluates them can benefit from the structured approach of MLflow Projects.
+
+## Question 7: How feasible would it be to convert an existing machine learning codebase into an MLflow Project? What would be involved?
+
+Feasibility of Conversion:
+- Moderate to High Feasibility: Converting an existing codebase involves creating an MLproject file, defining dependencies in conda.yaml, and structuring the code to fit the MLflow format.
+  
+Steps Involved: 
+- Identify entry points, specify parameters, and ensure that the code can run in the MLflow environment, which may require refactoring.
