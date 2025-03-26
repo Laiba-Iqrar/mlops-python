@@ -45,8 +45,20 @@ It's recommended to use Python scripts for consistency with data science librari
 5. **Parameters**
    - Required parameters: `filename`.
    - Optional parameters: `log` (default: true), `max_errors` (default: 1).
+  
+# KEY POINTS :
 
-6. **Error Handling**
+- The conda.yaml file defines dependencies needed to recreate the environment
+
+- Entry points specify which scripts can be executed in the workflow
+
+- MLflow projects can run workflows from local files or remote Git repos
+
+- The mlflow run command executes projects with parameters locally or remotely
+
+- Standardized projects enable portability across different platforms
+
+7. **Error Handling**
    - If a non-existent file is specified (e.g., `fake.csv`), an error will occur.
    - If no parameters are passed, an error will indicate missing parameters.
 
