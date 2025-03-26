@@ -1,0 +1,15 @@
+artifact_uri: file:///home/laiba/mlops-python/mlflow_project/mlruns/0/a80d959ff51f44a28cff640b1ce83851/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a80d959ff51f44a28cff640b1ce83851
+run_name: hilarious-ant-920
+run_uuid: a80d959ff51f44a28cff640b1ce83851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742920215850
+status: 1
+tags: []
+user_id: laiba

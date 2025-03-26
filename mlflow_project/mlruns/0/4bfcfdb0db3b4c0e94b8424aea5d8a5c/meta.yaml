@@ -1,0 +1,15 @@
+artifact_uri: file:///home/laiba/mlops-python/mlflow_project/mlruns/0/4bfcfdb0db3b4c0e94b8424aea5d8a5c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bfcfdb0db3b4c0e94b8424aea5d8a5c
+run_name: suave-hen-449
+run_uuid: 4bfcfdb0db3b4c0e94b8424aea5d8a5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742919789653
+status: 1
+tags: []
+user_id: laiba
