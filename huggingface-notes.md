@@ -57,3 +57,11 @@ Overall, the CLI makes common Hub workflows more streamlined and reproducible. I
      from datasets import load_dataset
      dataset = load_dataset("your_account/temporary_dataset")
      ```
+
+
+## Splits
+- Splits allow access to subsets of the same data.
+- Example splits: 
+  - **Training**: Full dataset (e.g., 3000 rows)
+  - **Test**: Subset (e.g., 200 rows)
+  - **Validation**: Another subset
