@@ -47,3 +47,13 @@ The Hugging Face CLI allows interacting with the Hub from the command line.
 - Complementary commands like `huggingface-cli env` and `huggingface-cli scan-cache` assist in debugging problems or managing disk usage.
 
 Overall, the CLI makes common Hub workflows more streamlined and reproducible. It's a tool both for ad-hoc exploration of repositories and automated, production workflows.
+
+
+---
+
+##  **Using the Dataset**
+   - You can load the dataset in a Jupyter Notebook using:
+     ```python
+     from datasets import load_dataset
+     dataset = load_dataset("your_account/temporary_dataset")
+     ```
