@@ -55,7 +55,7 @@ Overall, the CLI makes common Hub workflows more streamlined and reproducible. I
    - You can load the dataset in a Jupyter Notebook using:
      ```python
      from datasets import load_dataset
-     dataset = load_dataset("your_account/temporary_dataset")
+     dataset = load_dataset("Laiba-Iqrar/temporary_dataset")
      ```
 
 
